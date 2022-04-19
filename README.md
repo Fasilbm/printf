@@ -84,5 +84,5 @@ Files | Description
 ---
 
 ### Authors
-Fasil Beyene
+Fasil Beyene &
 Tibebu Kassa
